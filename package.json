@@ -26,5 +26,18 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "description": "Start coding a react application",
+  "main": "deploy-to-github.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulUclesLajara1/react-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulUclesLajara1/react-hello/issues"
+  },
+  "homepage": "https://github.com/RaulUclesLajara1/react-hello#readme"
 }
